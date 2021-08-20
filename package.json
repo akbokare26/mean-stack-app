@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "object-assign": "^4.1.1"
+  }
+}
